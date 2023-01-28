@@ -37,8 +37,9 @@ print("rows",len(df.axes[1]))
 
 
 ```
-## OUTPUT:
-![](csv_file.png)
+## OUTPUT:![csv_file](https://user-images.githubusercontent.com/119401150/215275678-d2821ec2-5a8e-40c4-b11f-dec688407d63.png)
+
+![](csv_file.png) 
 
 
 ## RESULT:
